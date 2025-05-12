@@ -18,6 +18,9 @@
 - Continuously learning and improving my development skills 📚  .
 - Enjoy helping others with FiveM scripting and troubleshooting 💡  .
 
+# 🌐💬 Join Our Discord Community :
+[![Discord Server](https://img.shields.io/badge/discord-%235662F6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DXZkpdPNRK)
+
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> # 💻 Expertise :</b>
@@ -26,8 +29,6 @@
 
 # 🌐💬 Join Our Discord Community :
 [![Discord Server](https://img.shields.io/badge/discord-%235662F6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DXZkpdPNRK)
-
-### 🛠️ **Technical Skills**
 
 #### 🔧 **Back-End Development**
 - ![LUA](https://img.shields.io/badge/LUA%20-%23000079.svg?style=flat-square&logo=lua&logoColor=white)
