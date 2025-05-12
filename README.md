@@ -24,6 +24,9 @@
 <br>
 <p align="center">
 
+# 🌐💬 Join Our Discord Community :
+[![Discord Server](https://img.shields.io/badge/discord-%235662F6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DXZkpdPNRK)
+
 ### 🛠️ **Technical Skills**
 
 #### 🔧 **Back-End Development**
@@ -49,8 +52,3 @@
 <br>
 
 ---
-
-<br>
-
-# 1️⃣ 📲 Discord Server:
-[![Discord Server](https://img.shields.io/badge/discord-%235662F6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DXZkpdPNRK)
