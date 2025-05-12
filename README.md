@@ -34,7 +34,9 @@
 - ![LUA](https://img.shields.io/badge/LUA%20-%23000079.svg?style=flat-square&logo=lua&logoColor=white)
 
 #### 🎨 **Front-End Development**
+- ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 #### 🗄️ **Databases**
 - ![MYSQL](https://img.shields.io/badge/MYSQL%20-%234f7b99.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -49,7 +51,4 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
 ---
